@@ -439,6 +439,23 @@
       "editorial": "DC  Comics",
       "tipo": "heroes-dc",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/dc%2Fmartian-j_oon.jpg?alt=media&token=bb518aee-d4a1-417b-8621-0b4cb0e02dd7"
+    },
+    {
+      "id": "edilberto",
+      "top": "1",
+      "nombre": "edilberto herrera",
+      "poderes": "programar - mucho",
+      "estreno": "novienbre de 1980",
+      "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña, es un personaje creado por los estadounidenses Stan Lee y Steve Ditko,?? e introducido en el cámic Amazing Fantasy n.á 15, publicado por Marvel Comics en agosto de 1962.",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/marvel%2Fspidey.webp?alt=media&token=30b44c3c-c7bb-4ee2-95fa-4914a3d9ca74"
+    }
+  ],
+  "landing":[
+    {
+      "nombre":"edilberto herrera",
+      "profesion":"desarrollador"
     }
   ]
 }
