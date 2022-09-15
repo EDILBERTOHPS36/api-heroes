@@ -538,7 +538,7 @@
           "gitrepo": "https://github.com/edilbertoh7/heroes-marvel.dc",
           "v_previa": "https://app-heroes-marvel-dc.netlify.app",
           "imagen": "https://firebasestorage.googleapis.com/v0/b/api-super-heroes.appspot.com/o/landing%2Fheroes.png?alt=media&token=ce90b5b9-b1a9-4c44-97af-5ec3081e563e",
-          "clase":"ml-16"
+          "clase":""
         },
         {
           "id":"3",
